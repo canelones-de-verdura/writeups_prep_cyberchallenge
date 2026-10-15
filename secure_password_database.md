@@ -101,4 +101,4 @@ Que da como resultado **-3209081493549540382**, que efectivamente es el valor qu
 
 Y conectándonos a la instancia de  CyLabs obtenemos la flag:
 
-![](./imágenes/1.3.png)
+![](./imágenes/1.5.png)
